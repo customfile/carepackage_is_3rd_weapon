@@ -5,3 +5,5 @@
 
 
 u will need a complete folder with all weapon files to fully have control (get an azza menu they usualy have them)
+
+it replaces the carepackage
