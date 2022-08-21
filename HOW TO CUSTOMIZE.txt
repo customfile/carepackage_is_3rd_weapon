@@ -1,3 +1,5 @@
+open the file in a text editor and change this values:
+
 1. change gunmodel
 2. change animations (idleAnim -> adsUpAnim)
 3. change dpadIcon to: hud_icon_WEAPONUWANT
