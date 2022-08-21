@@ -1,5 +1,5 @@
 1. change gunmodel
-2. change animations (idleAnim - adsUpAnim)
+2. change animations (idleAnim -> adsUpAnim)
 3. change dpadIcon to: hud_icon_WEAPONUWANT
 4. change dpadIconRatio so it will scale correctly
 5. use hideTags to set ur attatchments
