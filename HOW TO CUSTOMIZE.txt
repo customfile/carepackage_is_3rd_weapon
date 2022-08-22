@@ -1,10 +1,11 @@
 open the file in a text editor and change this values:
 
-1. change gunmodel
-2. change animations (idleAnim -> adsUpAnim)
-3. change dpadIcon to: hud_icon_WEAPONUWANT
-4. change dpadIconRatio so it will scale correctly
-5. use hideTags to set ur attatchments
+1. change displayName
+2. change gunmodel
+3. change animations (idleAnim -> adsUpAnim)
+4. change dpadIcon to: hud_icon_WEAPONUWANT
+5. change dpadIconRatio so it will scale correctly
+6. use hideTags to set ur attatchments
 	
 for example: hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_silencer (would be thermal scope)
 	     hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_thermal_scope (would be silencer)
