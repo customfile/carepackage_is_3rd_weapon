@@ -7,8 +7,8 @@ open the file in a text editor and change this values:
 5. change dpadIconRatio so it will scale correctly
 6. use hideTags to set ur attatchments
 	
-for example: hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_silencer (would be thermal scope)
-	     hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_thermal_scope (would be silencer)
+for example: hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_iron_sight tag_silencer (would be thermal scope)
+	     hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_iron_sight tag_thermal_scope (would be silencer)
 											 	
 
 
