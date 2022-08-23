@@ -1,4 +1,4 @@
-open the file in a text editor and change this values:
+open the file in a text editor and change these values:
 
 1. change displayName
 2. change gunmodel
