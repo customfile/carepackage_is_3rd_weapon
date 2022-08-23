@@ -2,7 +2,7 @@ open the file in a text editor and change this values:
 
 1. change displayName
 2. change gunmodel
-3. change timings u need: firstRaiseTime(canswap)/raiseTime/emptyRaiseAnim/dropAnim/emptyDropAnim/sprintInAnim/sprintLoopAnim/sprintOutAnim
+3. change timings for the animations (destabilizationRateTime -> sprintOutTime)
 3. change animations (idleAnim -> adsDownAnim)
 4. change dpadIcon to: hud_icon_WEAPONUWANT
 5. change dpadIconRatio so it will scale correctly
