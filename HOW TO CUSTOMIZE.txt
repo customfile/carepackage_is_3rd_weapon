@@ -2,8 +2,8 @@ open the file in a text editor and change these values:
 
 1. change displayName
 2. change gunmodel
-3. change animations (idleAnim -> adsDownAnim)
-4. change timings for the animations (destabilizationRateTime -> sprintOutTime)
+3. change animations (idleAnim -> adsDownAnim) (from -> to)
+4. change timings for the animations (destabilizationRateTime -> sprintOutTime) (from -> to)
 5. change dpadIcon to: hud_icon_WEAPONUWANT
 6. change dpadIconRatio so it will scale correctly
 7. use hideTags to set ur attatchments (everything u dont put in will be on your weapon)
