@@ -8,16 +8,20 @@ open the file in a text editor and change these values:
 6. change dpadIconRatio so it will scale correctly
 7. use hideTags to set ur attatchments (everything u dont put in will be on your weapon)
 	
-for example: hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_silencer (would be thermal scope)
-	     hideTags\tag_acog_2 tag_eotech tag_red_dot tag_thermal_scope (would be silencer)
-	     hideTags\tag_acog_2 tag_eotech tag_red_dot tag_silencer tag_thermal_scope (would be normal)
+			for example:    hideTags\tag_acog_2 tag_eotech tag_red_dot tag_iron_sight tag_silencer (would be thermal scope)
+	     				hideTags\tag_acog_2 tag_eotech tag_red_dot tag_thermal_scope (would be silencer)
+	     				hideTags\tag_acog_2 tag_eotech tag_red_dot tag_silencer tag_thermal_scope (would be normal)
 
 8. put the file in the weapon folder of ur mod 
 
-for snr: mod -> weapons.rar -> weapons -> mp	
+			for snr: mod -> weapons.rar -> weapons -> mp	
 
-								 	
-START THE MOD BEFORE U JOIN A SERVER !!
+
+9. START THE MOD BEFORE U JOIN A SERVER !!
+
+
+
+
 
 just copy paste the values from the weapon file of your choice
 
